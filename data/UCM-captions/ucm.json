@@ -1,0 +1,272 @@
+[
+    {
+        "split": "train",
+        "captions": [
+            "There is a piece of farmland .",
+            "There is a piece of cropland .",
+            "It is a piece of farmland .",
+            "It is a piece of cropland .",
+            "Here is a piece of farmland ."
+        ],
+        "file_path": "imgs/1.tif",
+        "processed_tokens": [
+            [
+                "There",
+                "is",
+                "a",
+                "piece",
+                "of",
+                "formland"
+            ],
+            [
+                "There",
+                "is",
+                "a",
+                "piece",
+                "of",
+                "cropland"
+            ],
+            [
+                "It",
+                "is",
+                "a",
+                "piece",
+                "of",
+                "farmland"
+            ],
+            [
+                "It",
+                "is",
+                "a",
+                "piece",
+                "of",
+                "cropland"
+            ],
+            [
+                "Here",
+                "is",
+                "a",
+                "piece",
+                "of",
+                "farmland"
+            ]
+        ],
+        "id": 1
+    },
+    {
+        "split": "train",
+        "captions": [
+            "There is a piece of farmland .",
+            "There is a piece of cropland .",
+            "It is a piece of farmland .",
+            "It is a piece of cropland .",
+            "Here is a piece of farmland ."
+        ],
+        "file_path": "imgs/2.tif",
+        "processed_tokens": [
+            [
+                "There",
+                "is",
+                "a",
+                "piece",
+                "of",
+                "formland"
+            ],
+            [
+                "There",
+                "is",
+                "a",
+                "piece",
+                "of",
+                "cropland"
+            ],
+            [
+                "It",
+                "is",
+                "a",
+                "piece",
+                "of",
+                "farmland"
+            ],
+            [
+                "It",
+                "is",
+                "a",
+                "piece",
+                "of",
+                "cropland"
+            ],
+            [
+                "Here",
+                "is",
+                "a",
+                "piece",
+                "of",
+                "farmland"
+            ]
+        ],
+        "id": 2
+    },
+    {
+        "split": "train",
+        "captions": [
+            "There is a piece of farmland .",
+            "There is a piece of cropland .",
+            "It is a piece of farmland .",
+            "It is a piece of cropland .",
+            "Here is a piece of farmland ."
+        ],
+        "file_path": "imgs/3.tif",
+        "processed_tokens": [
+            [
+                "There",
+                "is",
+                "a",
+                "piece",
+                "of",
+                "formland"
+            ],
+            [
+                "There",
+                "is",
+                "a",
+                "piece",
+                "of",
+                "cropland"
+            ],
+            [
+                "It",
+                "is",
+                "a",
+                "piece",
+                "of",
+                "farmland"
+            ],
+            [
+                "It",
+                "is",
+                "a",
+                "piece",
+                "of",
+                "cropland"
+            ],
+            [
+                "Here",
+                "is",
+                "a",
+                "piece",
+                "of",
+                "farmland"
+            ]
+        ],
+        "id": 3
+    },
+    {
+        "split": "train",
+        "captions": [
+            "There is a piece of farmland .",
+            "There is a piece of cropland .",
+            "It is a piece of farmland .",
+            "It is a piece of cropland .",
+            "Here is a piece of farmland ."
+        ],
+        "file_path": "imgs/4.tif",
+        "processed_tokens": [
+            [
+                "There",
+                "is",
+                "a",
+                "piece",
+                "of",
+                "formland"
+            ],
+            [
+                "There",
+                "is",
+                "a",
+                "piece",
+                "of",
+                "cropland"
+            ],
+            [
+                "It",
+                "is",
+                "a",
+                "piece",
+                "of",
+                "farmland"
+            ],
+            [
+                "It",
+                "is",
+                "a",
+                "piece",
+                "of",
+                "cropland"
+            ],
+            [
+                "Here",
+                "is",
+                "a",
+                "piece",
+                "of",
+                "farmland"
+            ]
+        ],
+        "id": 4
+    },
+    {
+        "split": "train",
+        "captions": [
+            "There is a piece of farmland .",
+            "There is a piece of cropland .",
+            "It is a piece of farmland .",
+            "It is a piece of cropland .",
+            "Here is a piece of farmland ."
+        ],
+        "file_path": "imgs/5.tif",
+        "processed_tokens": [
+            [
+                "There",
+                "is",
+                "a",
+                "piece",
+                "of",
+                "formland"
+            ],
+            [
+                "There",
+                "is",
+                "a",
+                "piece",
+                "of",
+                "cropland"
+            ],
+            [
+                "It",
+                "is",
+                "a",
+                "piece",
+                "of",
+                "farmland"
+            ],
+            [
+                "It",
+                "is",
+                "a",
+                "piece",
+                "of",
+                "cropland"
+            ],
+            [
+                "Here",
+                "is",
+                "a",
+                "piece",
+                "of",
+                "farmland"
+            ]
+        ],
+        "id": 5
+    }
+]

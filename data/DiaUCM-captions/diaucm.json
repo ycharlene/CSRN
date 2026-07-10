@@ -1,0 +1,292 @@
+[
+    {
+      "split": "train",
+      "captions": [
+        "There is a piece of farmland . There is a piece of cropland . It is a piece of farmland . It is a piece of cropland . Here is a piece of farmland .",
+        "The image appears to be an aerial view of a large, organized agricultural field with rows of crops. The crops are uniformly spaced, and the field is bordered by a less dense area, possibly a road or another type of vegetation.",
+        "Please briefly describe what exists in the scene. It's an image featuring a piece of farmland and a piece of cropland.",
+        "What is the primary feature of the farmland or cropland, and are there any specific details or attributes mentioned? All captions only mention the existence of a piece of farmland and cropland without providing additional details about appearance, size, or attributes.",
+        "Are there any visible objects, structures, or other features within or around the farmland and cropland? Not mentioned.",
+        "Please briefly describe what exists in the scene. It is a piece of farmland and cropland.",
+        "What are the land types like and how are they arranged? The scene contains farmland and cropland, with no specific arrangement details mentioned.",
+        "Are there any other features or characteristics mentioned about the land? Not mentioned.",
+        "Are there any conflicts or additional details about the land types? The captions refer to both \"farmland\" and \"cropland,\" which are likely the same or similar land types, but no further clarification is provided."
+      ],
+      "file_path": "imgs/1.tif",
+      "processed_tokens": [
+        [
+          "There",
+          "is",
+          "a",
+          "piece",
+          "of",
+          "formland"
+        ],
+        [
+          "There",
+          "is",
+          "a",
+          "piece",
+          "of",
+          "cropland"
+        ],
+        [
+          "It",
+          "is",
+          "a",
+          "piece",
+          "of",
+          "farmland"
+        ],
+        [
+          "It",
+          "is",
+          "a",
+          "piece",
+          "of",
+          "cropland"
+        ],
+        [
+          "Here",
+          "is",
+          "a",
+          "piece",
+          "of",
+          "farmland"
+        ]
+      ],
+      "id": 1
+    },
+    {
+      "split": "train",
+      "captions": [
+        "There is a piece of farmland . There is a piece of cropland . It is a piece of farmland . It is a piece of cropland . Here is a piece of farmland .",
+        "The image appears to be an aerial or satellite view of a large, flat surface with a grid-like pattern, possibly a solar farm or a large industrial area. The surface is covered with rows of panels or cells, and there are some darker patches that could be shadows or other features on the ground.",
+        "Please briefly describe what exists in the scene. The image is primarily a piece of land that could either be referred to as cropland or farmland.",
+        "What are the differences, if any, in descriptions between the cropland and the farmland? The captions describe the land as both \"cropland\" and \"farmland,\" but there are no detailed attributes or differences specified between the two descriptions.",
+        "What specific details or characteristics are noted about the cropland or farmland in terms of color, size, shape, or texture? Not mentioned.",
+        "Are there any objects or structures present on or around this piece of land? Not mentioned.",
+        "What about the spatial position of this land in relation to any other objects or landmarks in the scene? Not mentioned.",
+        "Please briefly describe what exists in the scene. It is a piece of farmland or cropland.",
+        "What can you tell me about the land type and its characteristics? The scene is described as both farmland and cropland, with no additional details provided about its appearance or structure.",
+        "Are there any other features or objects present in the scene? No other objects or features are mentioned in the captions.",
+        "Are there any spatial relations or layout details mentioned? No spatial relations or layout details are specified in the captions."
+      ],
+      "file_path": "imgs/2.tif",
+      "processed_tokens": [
+        [
+          "There",
+          "is",
+          "a",
+          "piece",
+          "of",
+          "formland"
+        ],
+        [
+          "There",
+          "is",
+          "a",
+          "piece",
+          "of",
+          "cropland"
+        ],
+        [
+          "It",
+          "is",
+          "a",
+          "piece",
+          "of",
+          "farmland"
+        ],
+        [
+          "It",
+          "is",
+          "a",
+          "piece",
+          "of",
+          "cropland"
+        ],
+        [
+          "Here",
+          "is",
+          "a",
+          "piece",
+          "of",
+          "farmland"
+        ]
+      ],
+      "id": 2
+    },
+    {
+      "split": "train",
+      "captions": [
+        "There is a piece of farmland . There is a piece of cropland . It is a piece of farmland . It is a piece of cropland . Here is a piece of farmland .",
+        "The image appears to be an aerial view of a large agricultural field, possibly a greenhouse or a crop field, with rows of plants or crops. The pattern suggests a structured farming method, and the white lines might indicate pathways or irrigation channels.",
+        "Please briefly describe what exists in the scene. It appears to be an aerial view of a piece of farmland or cropland.",
+        "Can you describe the appearance of the farmland or cropland, including its color, shape, and texture? The captions do not provide any specific details about color, shape, or texture of the farmland or cropland.",
+        "How are the objects or features like the farmland or cropland distributed or arranged in the scene? The captions do not provide information on the distribution or arrangement of the farmland or cropland in the scene.",
+        "Is there any additional information about the spatial position or layout of the farmland or cropland within the scene or its relationship with any other objects? The captions do not specify any spatial positions or layouts, nor do they mention any other objects or relationships within the scene.",
+        "Please briefly describe what exists in the scene. It is a piece of farmland and cropland.",
+        "What are the land types like and how are they arranged? The scene consists of farmland and cropland, with no specific arrangement mentioned."
+      ],
+      "file_path": "imgs/3.tif",
+      "processed_tokens": [
+        [
+          "There",
+          "is",
+          "a",
+          "piece",
+          "of",
+          "formland"
+        ],
+        [
+          "There",
+          "is",
+          "a",
+          "piece",
+          "of",
+          "cropland"
+        ],
+        [
+          "It",
+          "is",
+          "a",
+          "piece",
+          "of",
+          "farmland"
+        ],
+        [
+          "It",
+          "is",
+          "a",
+          "piece",
+          "of",
+          "cropland"
+        ],
+        [
+          "Here",
+          "is",
+          "a",
+          "piece",
+          "of",
+          "farmland"
+        ]
+      ],
+      "id": 3
+    },
+    {
+      "split": "train",
+      "captions": [
+        "There is a piece of farmland . There is a piece of cropland . It is a piece of farmland . It is a piece of cropland . Here is a piece of farmland .",
+        "The image appears to be an aerial view of a large agricultural field, possibly a vineyard or a crop field, with rows of plants or crops neatly aligned. The field is covered in green, indicating healthy vegetation. There is a dirt path or road running horizontally across the field, dividing the rows.",
+        "Please briefly describe what exists in the scene. It's a piece of farmland or cropland.",
+        "What can you tell me about the nature or type of the land? It's described as both a piece of farmland and a piece of cropland, but no detailed attributes such as crop type or land use are mentioned.",
+        "Are there any other objects or features in the scene besides the farmland or cropland? No, no other objects or features are mentioned in the captions.",
+        "Please briefly describe what exists in the scene. It is a piece of farmland, which is also described as cropland.",
+        "What are the characteristics of the farmland? The farmland is referred to as cropland, but no specific color, shape, or additional features are mentioned.",
+        "Are there any other objects or features in the scene? No other objects or features are mentioned in the captions.",
+        "What can you tell me about the spatial layout or relations? No spatial relations or layout details are specified in the captions."
+      ],
+      "file_path": "imgs/4.tif",
+      "processed_tokens": [
+        [
+          "There",
+          "is",
+          "a",
+          "piece",
+          "of",
+          "formland"
+        ],
+        [
+          "There",
+          "is",
+          "a",
+          "piece",
+          "of",
+          "cropland"
+        ],
+        [
+          "It",
+          "is",
+          "a",
+          "piece",
+          "of",
+          "farmland"
+        ],
+        [
+          "It",
+          "is",
+          "a",
+          "piece",
+          "of",
+          "cropland"
+        ],
+        [
+          "Here",
+          "is",
+          "a",
+          "piece",
+          "of",
+          "farmland"
+        ]
+      ],
+      "id": 4
+    },
+    {
+      "split": "train",
+      "captions": [
+        "There is a piece of farmland . There is a piece of cropland . It is a piece of farmland . It is a piece of cropland . Here is a piece of farmland .",
+        "The image depicts an aerial view of a forested area with dense, green tree canopies. The trees are uniformly spaced, suggesting a managed forest or plantation. The surrounding ground appears to be a mix of bare soil and sparse vegetation.",
+        "Please briefly describe what exists in the scene. It's an image of a piece of farmland, which is also characterized as a piece of cropland.",
+        "What can you tell me about the farmland/cropland? The area is described as a piece of farmland and a piece of cropland, suggesting it is used for agricultural purposes. However, no further specific details about the type of crops, size, or condition of the farmland are mentioned in the captions.",
+        "Please briefly describe what exists in the scene. It is a piece of farmland and cropland.",
+        "What are the farmland and cropland like? The farmland and cropland are described as a single piece, with no additional details provided about their appearance or arrangement.",
+        "Are there any spatial relations or layout features mentioned? No spatial relations or layout features are mentioned in the captions.",
+        "Are there any conflicts or additional details to clarify? The captions are repetitive, referring to the same area as both \"farmland\" and \"cropland\" without distinguishing between them. No further details are provided."
+      ],
+      "file_path": "imgs/5.tif",
+      "processed_tokens": [
+        [
+          "There",
+          "is",
+          "a",
+          "piece",
+          "of",
+          "formland"
+        ],
+        [
+          "There",
+          "is",
+          "a",
+          "piece",
+          "of",
+          "cropland"
+        ],
+        [
+          "It",
+          "is",
+          "a",
+          "piece",
+          "of",
+          "farmland"
+        ],
+        [
+          "It",
+          "is",
+          "a",
+          "piece",
+          "of",
+          "cropland"
+        ],
+        [
+          "Here",
+          "is",
+          "a",
+          "piece",
+          "of",
+          "farmland"
+        ]
+      ],
+      "id": 5
+    }
+]

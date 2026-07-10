@@ -1,0 +1,379 @@
+[
+    {
+        "split": "train",
+        "captions": [
+            "many planes are parked next to a long building in an airport .",
+            "many planes are parked next to a long building in an airport .",
+            "many planes are parked next to a long building in an airport .",
+            "many planes are parked next to a long building in an airport .",
+            "many planes are parked next to a long building in an airport ."
+        ],
+        "file_path": "RSICD_images/airport_1.jpg",
+        "processed_tokens": [
+            [
+                "many",
+                "planes",
+                "are",
+                "parked",
+                "next",
+                "to",
+                "a",
+                "long",
+                "building",
+                "in",
+                "an",
+                "airport"
+            ],
+            [
+                "many",
+                "planes",
+                "are",
+                "parked",
+                "next",
+                "to",
+                "a",
+                "long",
+                "building",
+                "in",
+                "an",
+                "airport"
+            ],
+            [
+                "many",
+                "planes",
+                "are",
+                "parked",
+                "next",
+                "to",
+                "a",
+                "long",
+                "building",
+                "in",
+                "an",
+                "airport"
+            ],
+            [
+                "many",
+                "planes",
+                "are",
+                "parked",
+                "next",
+                "to",
+                "a",
+                "long",
+                "building",
+                "in",
+                "an",
+                "airport"
+            ],
+            [
+                "many",
+                "planes",
+                "are",
+                "parked",
+                "next",
+                "to",
+                "a",
+                "long",
+                "building",
+                "in",
+                "an",
+                "airport"
+            ]
+        ],
+        "id": 1
+    },
+    {
+        "split": "train",
+        "captions": [
+            "some planes are parked in an airport .",
+            "the airport here is full of airplanes and containers .",
+            "the airport here is full of airplanes and containers .",
+            "some planes are parked in an airport .",
+            "some planes are parked in an airport ."
+        ],
+        "file_path": "RSICD_images/airport_10.jpg",
+        "processed_tokens": [
+            [
+                "some",
+                "planes",
+                "are",
+                "parked",
+                "in",
+                "an",
+                "airport"
+            ],
+            [
+                "the",
+                "airport",
+                "here",
+                "is",
+                "full",
+                "of",
+                "airplanes",
+                "and",
+                "containers"
+            ],
+            [
+                "the",
+                "airport",
+                "here",
+                "is",
+                "full",
+                "of",
+                "airplanes",
+                "and",
+                "containers"
+            ],
+            [
+                "some",
+                "planes",
+                "are",
+                "parked",
+                "in",
+                "an",
+                "airport"
+            ],
+            [
+                "some",
+                "planes",
+                "are",
+                "parked",
+                "in",
+                "an",
+                "airport"
+            ]
+        ],
+        "id": 2
+    },
+    {
+        "split": "train",
+        "captions": [
+            "many planes are parked in an airport near many runways .",
+            "there are many planes with same size in the airport .",
+            "there are many planes with same size in the airport .",
+            "many planes are parked in an airport near many runways .",
+            "many planes are parked in an airport near many runways ."
+        ],
+        "file_path": "RSICD_images/airport_100.jpg",
+        "processed_tokens": [
+            [
+                "many",
+                "planes",
+                "are",
+                "parked",
+                "in",
+                "an",
+                "airport",
+                "near",
+                "many",
+                "runways"
+            ],
+            [
+                "there",
+                "are",
+                "many",
+                "planes",
+                "with",
+                "same",
+                "size",
+                "in",
+                "the",
+                "airport"
+            ],
+            [
+                "there",
+                "are",
+                "many",
+                "planes",
+                "with",
+                "same",
+                "size",
+                "in",
+                "the",
+                "airport"
+            ],
+            [
+                "many",
+                "planes",
+                "are",
+                "parked",
+                "in",
+                "an",
+                "airport",
+                "near",
+                "many",
+                "runways"
+            ],
+            [
+                "many",
+                "planes",
+                "are",
+                "parked",
+                "in",
+                "an",
+                "airport",
+                "near",
+                "many",
+                "runways"
+            ]
+        ],
+        "id": 3
+    },
+    {
+        "split": "train",
+        "captions": [
+            "many planes are parked near a large building on an airport .",
+            "many planes are parked near a large building on an airport .",
+            "many planes are parked near a large building on an airport .",
+            "many planes are parked near a large building on an airport .",
+            "many planes are parked near a large building on an airport ."
+        ],
+        "file_path": "RSICD_images/airport_101.jpg",
+        "processed_tokens": [
+            [
+                "many",
+                "planes",
+                "are",
+                "parked",
+                "near",
+                "a",
+                "large",
+                "building",
+                "on",
+                "an",
+                "airport"
+            ],
+            [
+                "many",
+                "planes",
+                "are",
+                "parked",
+                "near",
+                "a",
+                "large",
+                "building",
+                "on",
+                "an",
+                "airport"
+            ],
+            [
+                "many",
+                "planes",
+                "are",
+                "parked",
+                "near",
+                "a",
+                "large",
+                "building",
+                "on",
+                "an",
+                "airport"
+            ],
+            [
+                "many",
+                "planes",
+                "are",
+                "parked",
+                "near",
+                "a",
+                "large",
+                "building",
+                "on",
+                "an",
+                "airport"
+            ],
+            [
+                "many",
+                "planes",
+                "are",
+                "parked",
+                "near",
+                "a",
+                "large",
+                "building",
+                "on",
+                "an",
+                "airport"
+            ]
+        ],
+        "id": 4
+    },
+    {
+        "split": "train",
+        "captions": [
+            "several buildings and green trees are around a piece of bareland .",
+            "some planes are parked near an airport with parking lot .",
+            "some planes are parked near an airport with parking lot .",
+            "several buildings and green trees are around a piece of bareland .",
+            "several buildings and green trees are around a piece of bareland ."
+        ],
+        "file_path": "RSICD_images/airport_102.jpg",
+        "processed_tokens": [
+            [
+                "several",
+                "buildings",
+                "and",
+                "green",
+                "trees",
+                "are",
+                "around",
+                "a",
+                "piece",
+                "of",
+                "bareland"
+            ],
+            [
+                "some",
+                "planes",
+                "are",
+                "parked",
+                "near",
+                "an",
+                "airport",
+                "with",
+                "parking",
+                "lot"
+            ],
+            [
+                "some",
+                "planes",
+                "are",
+                "parked",
+                "near",
+                "an",
+                "airport",
+                "with",
+                "parking",
+                "lot"
+            ],
+            [
+                "several",
+                "buildings",
+                "and",
+                "green",
+                "trees",
+                "are",
+                "around",
+                "a",
+                "piece",
+                "of",
+                "bareland"
+            ],
+            [
+                "several",
+                "buildings",
+                "and",
+                "green",
+                "trees",
+                "are",
+                "around",
+                "a",
+                "piece",
+                "of",
+                "bareland"
+            ]
+        ],
+        "id": 5
+    }
+]

@@ -1,0 +1,393 @@
+[
+    {
+      "split": "train",
+      "captions": [
+        "many planes are parked next to a long building in an airport . many planes are parked next to a long building in an airport . many planes are parked next to a long building in an airport . many planes are parked next to a long building in an airport . many planes are parked next to a long building in an airport .",
+        "The image is an aerial view of an airport with multiple airplanes parked at gates. There is a large terminal building with a distinctive curved roof, and several runways are visible. The airport appears to be well-organized with clear markings and a central circular area that might be a control tower or a roundabout.",
+        "Please briefly describe what exists in the scene. It's an airport with many planes parked next to a long building.",
+        "What are the planes like and how are they arranged? The planes are not specified in terms of color, shape, or size, but they are parked next to a long building.",
+        "What about the building? The building is long, but no specific details about its appearance, color, or structure are provided.",
+        "Can you describe the arrangement of the planes relative to the building? Many planes are parked next to the long building, suggesting a linear arrangement along the building's length.",
+        "Please briefly describe what exists in the scene. Many planes are parked next to a long building in an airport."
+      ],
+      "file_path": "RSICD_images/airport_1.jpg",
+      "processed_tokens": [
+        [
+          "many",
+          "planes",
+          "are",
+          "parked",
+          "next",
+          "to",
+          "a",
+          "long",
+          "building",
+          "in",
+          "an",
+          "airport"
+        ],
+        [
+          "many",
+          "planes",
+          "are",
+          "parked",
+          "next",
+          "to",
+          "a",
+          "long",
+          "building",
+          "in",
+          "an",
+          "airport"
+        ],
+        [
+          "many",
+          "planes",
+          "are",
+          "parked",
+          "next",
+          "to",
+          "a",
+          "long",
+          "building",
+          "in",
+          "an",
+          "airport"
+        ],
+        [
+          "many",
+          "planes",
+          "are",
+          "parked",
+          "next",
+          "to",
+          "a",
+          "long",
+          "building",
+          "in",
+          "an",
+          "airport"
+        ],
+        [
+          "many",
+          "planes",
+          "are",
+          "parked",
+          "next",
+          "to",
+          "a",
+          "long",
+          "building",
+          "in",
+          "an",
+          "airport"
+        ]
+      ],
+      "id": 1
+    },
+    {
+      "split": "train",
+      "captions": [
+        "some planes are parked in an airport . the airport here is full of airplanes and containers . the airport here is full of airplanes and containers . some planes are parked in an airport . some planes are parked in an airport .",
+        "The image is an aerial view of an airport with multiple airplanes parked on the tarmac. There are several runways and taxiways visible, and the airport terminal buildings are also present in the background. The scene includes various aircraft of different sizes and colors, indicating a busy airport environment.",
+        "Please briefly describe what exists in the scene. It's an airport with planes and containers.",
+        "What are the planes like and how are they arranged? Some planes are parked dispersedly.",
+        "What can you tell me about the containers? There are containers at the airport, but specific details about their appearance or arrangement are not mentioned.",
+        "Are there any other objects or features in the scene? No other objects or features are mentioned in the captions.",
+        "What is the spatial arrangement of the planes and containers in the airport? The exact spatial positions and layout of the planes and containers in relation to each other or within the airport are not specified.",
+        "Please briefly describe what exists in the scene. It's an airport with airplanes and containers.",
+        "What are the airplanes like and how are they arranged? Some airplanes are parked in the airport.",
+        "What about the containers? Containers are present in the airport."
+      ],
+      "file_path": "RSICD_images/airport_10.jpg",
+      "processed_tokens": [
+        [
+          "some",
+          "planes",
+          "are",
+          "parked",
+          "in",
+          "an",
+          "airport"
+        ],
+        [
+          "the",
+          "airport",
+          "here",
+          "is",
+          "full",
+          "of",
+          "airplanes",
+          "and",
+          "containers"
+        ],
+        [
+          "the",
+          "airport",
+          "here",
+          "is",
+          "full",
+          "of",
+          "airplanes",
+          "and",
+          "containers"
+        ],
+        [
+          "some",
+          "planes",
+          "are",
+          "parked",
+          "in",
+          "an",
+          "airport"
+        ],
+        [
+          "some",
+          "planes",
+          "are",
+          "parked",
+          "in",
+          "an",
+          "airport"
+        ]
+      ],
+      "id": 2
+    },
+    {
+      "split": "train",
+      "captions": [
+        "many planes are parked in an airport near many runways . there are many planes with same size in the airport . there are many planes with same size in the airport . many planes are parked in an airport near many runways . many planes are parked in an airport near many runways .",
+        "The image appears to be an aerial view of an airport, featuring multiple runways intersecting at various angles. There are visible taxiways and aircraft parking areas, with some planes visible on the tarmac. The layout suggests a well-organized airfield with clear demarcations for different aircraft movements.",
+        "Please briefly describe what exists in the scene. The scene is an airport with many planes parked near several runways.",
+        "What are the planes like and how are they arranged? The planes are of the same size and are parked in an airport.",
+        "What about the runways? There are many runways near where the planes are parked.",
+        "Are there any differences in the way the planes are described across the captions? No differences are mentioned; all captions describe the planes as being of the same size and there being many planes and runways.",
+        "Can you describe the spatial position of the planes relative to the runways? The planes are parked in the airport near the runways, but the exact positioning or layout is not described in detail.",
+        "Please briefly describe what exists in the scene. It's an airport with many planes parked near many runways.",
+        "What are the planes like and how are they arranged? Many planes are parked near runways, and they are all the same size.",
+        "What about the runways and surrounding areas? The planes are parked near many runways, but no specific details about the runways or surrounding areas are mentioned."
+      ],
+      "file_path": "RSICD_images/airport_100.jpg",
+      "processed_tokens": [
+        [
+          "many",
+          "planes",
+          "are",
+          "parked",
+          "in",
+          "an",
+          "airport",
+          "near",
+          "many",
+          "runways"
+        ],
+        [
+          "there",
+          "are",
+          "many",
+          "planes",
+          "with",
+          "same",
+          "size",
+          "in",
+          "the",
+          "airport"
+        ],
+        [
+          "there",
+          "are",
+          "many",
+          "planes",
+          "with",
+          "same",
+          "size",
+          "in",
+          "the",
+          "airport"
+        ],
+        [
+          "many",
+          "planes",
+          "are",
+          "parked",
+          "in",
+          "an",
+          "airport",
+          "near",
+          "many",
+          "runways"
+        ],
+        [
+          "many",
+          "planes",
+          "are",
+          "parked",
+          "in",
+          "an",
+          "airport",
+          "near",
+          "many",
+          "runways"
+        ]
+      ],
+      "id": 3
+    },
+    {
+      "split": "train",
+      "captions": [
+        "many planes are parked near a large building on an airport . many planes are parked near a large building on an airport . many planes are parked near a large building on an airport . many planes are parked near a large building on an airport . many planes are parked near a large building on an airport .",
+        "The image is an aerial view of an airport, showcasing multiple runways, terminals, and numerous airplanes parked at gates. The layout includes a central terminal building with several satellite terminals branching out, and the area is marked with clear demarcations for taxiways and parking zones.",
+        "Please briefly describe what exists in the scene. It's an airport with many planes parked near a large building.",
+        "What can you tell me about the building? There is a large building mentioned, but no details about its appearance or additional features are specified.",
+        "What about the ground and surrounding areas? The captions do not provide any information about the ground surface characteristics or surrounding areas beyond the airport itself where the planes and building are located.",
+        "Please briefly describe what exists in the scene. Many planes are parked near a large building on an airport."
+      ],
+      "file_path": "RSICD_images/airport_101.jpg",
+      "processed_tokens": [
+        [
+          "many",
+          "planes",
+          "are",
+          "parked",
+          "near",
+          "a",
+          "large",
+          "building",
+          "on",
+          "an",
+          "airport"
+        ],
+        [
+          "many",
+          "planes",
+          "are",
+          "parked",
+          "near",
+          "a",
+          "large",
+          "building",
+          "on",
+          "an",
+          "airport"
+        ],
+        [
+          "many",
+          "planes",
+          "are",
+          "parked",
+          "near",
+          "a",
+          "large",
+          "building",
+          "on",
+          "an",
+          "airport"
+        ],
+        [
+          "many",
+          "planes",
+          "are",
+          "parked",
+          "near",
+          "a",
+          "large",
+          "building",
+          "on",
+          "an",
+          "airport"
+        ],
+        [
+          "many",
+          "planes",
+          "are",
+          "parked",
+          "near",
+          "a",
+          "large",
+          "building",
+          "on",
+          "an",
+          "airport"
+        ]
+      ],
+      "id": 4
+    },
+    {
+      "split": "train",
+      "captions": [
+        "several buildings and green trees are around a piece of bareland . some planes are parked near an airport with parking lot . some planes are parked near an airport with parking lot . several buildings and green trees are around a piece of bareland . several buildings and green trees are around a piece of bareland .",
+        "The image is an aerial view of an airport with multiple airplanes parked at the gates. The tarmac is extensive, and there are several runways visible. The surrounding area includes roads and a few buildings.",
+        "Please briefly describe what exists in the scene. The scene includes an airport with planes parked near it, a parking lot, several buildings, green trees, and a piece of bareland.",
+        "What are the planes like and how are they arranged? Some planes are parked near the airport, near the parking lot.",
+        "Please briefly describe what exists in the scene. There are several buildings and green trees around a piece of bareland. Some planes are parked near an airport with a parking lot.",
+        "What can you tell me about the spatial layout and relations between objects? The bareland is surrounded by buildings and green trees. Planes are parked near the airport, which has a parking lot."
+      ],
+      "file_path": "RSICD_images/airport_102.jpg",
+      "processed_tokens": [
+        [
+          "several",
+          "buildings",
+          "and",
+          "green",
+          "trees",
+          "are",
+          "around",
+          "a",
+          "piece",
+          "of",
+          "bareland"
+        ],
+        [
+          "some",
+          "planes",
+          "are",
+          "parked",
+          "near",
+          "an",
+          "airport",
+          "with",
+          "parking",
+          "lot"
+        ],
+        [
+          "some",
+          "planes",
+          "are",
+          "parked",
+          "near",
+          "an",
+          "airport",
+          "with",
+          "parking",
+          "lot"
+        ],
+        [
+          "several",
+          "buildings",
+          "and",
+          "green",
+          "trees",
+          "are",
+          "around",
+          "a",
+          "piece",
+          "of",
+          "bareland"
+        ],
+        [
+          "several",
+          "buildings",
+          "and",
+          "green",
+          "trees",
+          "are",
+          "around",
+          "a",
+          "piece",
+          "of",
+          "bareland"
+        ]
+      ],
+      "id": 5
+    }
+]
