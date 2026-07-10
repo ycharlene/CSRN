@@ -2,7 +2,7 @@
 ![image2](./images/fg2.jpg)
 
 ## Usage
-We use single NVIDIA A800 80GB GPUs for training and evaluation.
+We use NVIDIA A800 80GB GPUs for training and evaluation.
 ```
 torch 2.1.2+cu118
 transformers 4.50.0
